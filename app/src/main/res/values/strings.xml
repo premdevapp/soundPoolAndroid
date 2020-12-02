@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFxSoundApp</string>
+    <string name="complete">complete</string>
+    <string name="correct">correct</string>
+    <string name="defeat_one">defeat_one</string>
+    <string name="defeat_two">defeat_two</string>
+    <string name="soundp">soundp</string>
+</resources>
